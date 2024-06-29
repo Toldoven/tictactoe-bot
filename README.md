@@ -1,5 +1,7 @@
 # Tic-Tac-Toe Bot
 
+![](https://i.imgur.com/2vW5chS.png)
+
  A multiplayer Tic-Tac-Toe game inside of Telegram 
 
 Try it out now: [@tttiktaktoe_bot](https://t.me/tttiktaktoe_bot)
